@@ -23,6 +23,16 @@
       "filterable": 0, 
       "spider": "jar4"  //黑木耳克隆
     },
+{
+      "key": "金鹰克隆",
+      "name": "金鹰克隆",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/jy.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0, 
+      "spider": "jar4"  //黑木耳克隆
+    },
 
      {
       "key": "豆瓣",
