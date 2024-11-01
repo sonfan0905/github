@@ -1,0 +1,4 @@
+{ "urls": [
+{ "url": "https://anbox118.serv00.net/vod.json", "name": "黑木耳克隆" },
+{ "url": "https://github.com/sonfan0905/github/blob/master/api.json", "name": "GitHub" }
+]}
