@@ -1,5 +1,5 @@
 { "urls": [
-{ "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "饭太硬" },
+{ "url": "https://raw.githubusercontent.com/sonfan0905/github/master/api.json", "name": "倉庫中的TVBox線上線路" },
 {
       "url": "clan://localhost/tvbox/dc2/lib/box原.json",
       "name": "公众号【宝盒没宝】"
