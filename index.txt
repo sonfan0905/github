@@ -8,19 +8,6 @@
       "url": "http://www.饭太硬.com/tv/",
       "name": "線上饭太硬"
     },
-{ "url": "clan://localhost/tvbox/肥猫/api.json", "name": "肥猫" },
+ { "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "饭太硬" }
 
-{ "url": "clan://localhost/tvbox/王二小/api.json", "name": "王二小" },
-
-{ "url": "clan://localhost/tvbox/摸鱼儿/api.json", "name": "摸鱼儿" },
-
-{ "url": "clan://localhost/tvbox/潇洒/api.json", "name": "潇洒" },
-
-{ "url": "clan://localhost/tvbox/南风/api.json", "name": "南风" },
-
-{ "url": "clan://localhost/tvbox/骚零/api.json", "name": "骚零" },
-
-{ "url": "clan://localhost/tvbox/OK/api.json", "name": "OK" },
-
-{ "url": "clan://localhost/tvbox/短剧频道/api.json", "name": "短剧频道" }
 ]}
