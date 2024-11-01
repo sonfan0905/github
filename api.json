@@ -1,7 +1,8 @@
 //【自製TVBox線上配置教程】
 
 {
-     "spider": "./spider.jar",  
+     //"spider": "./spider.jar",
+      "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
      "jars":  //多JAR格式模版.txt
    {
      "jar1":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt" , //西夏影視線路
