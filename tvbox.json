@@ -1,0 +1,15 @@
+<!doctype html><html lang="zh"><head><script>if(window.parent !== window) {window.stop()}</script><meta charset="UTF-8"><link rel="icon" href="https://cdn-static.gitcode.com/static/images/logo-favicon.png"><meta name="viewport" content="width=device-width,initial-scale=1"><meta content="pc,mobile" name="applicable-device"><meta property="og:image" content="https://cdn-static.gitcode.com/static/images/logo-favicon.png"><meta property="og:image:secure_url" content="https://cdn-static.gitcode.com/static/images/logo-favicon.png"><meta property="og:image:width" content="49"><meta property="og:image:height" content="49"><meta property="og:image:alt" content="favicon"><meta property="og:image:type" content="image/png"><meta name="baidu-site-verification" content="codeva-zQ72KLO8Ne"/><link rel="dns-prefetch" href="//res.hc-cdn.com"><title>GitCode - 全球开发者的开源社区,开源代码托管平台</title><meta name="description" content="GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。"/><meta name="keywords" content="开源社区,开源代码,GitCode"/><style>.icon{width:1em;height:1em;vertical-align:-.15em;fill:currentColor;overflow:hidden}div#udesk_btn{display:none}</style><script type="module" crossorigin src="https://cdn-static.gitcode.com/assets/index-901b970c.js"></script><link rel="modulepreload" crossorigin href="https://cdn-static.gitcode.com/assets/diff2html-fa86842a.js"><link rel="modulepreload" crossorigin href="https://cdn-static.gitcode.com/assets/@sentry-c43a920f.js"><link rel="stylesheet" href="https://cdn-static.gitcode.com/assets/index-c6c9eccd.css"></head><body><script>!function(x, n) {
+                                window[n] = window[n] || {};
+                                window[n].config = { appId: "200e0f9a4be74e13b1daca0b3828c6d7",apiRepo: true,thirdApi: true,hashMode: true,enableInp:true, JsErrClean: true,smartJsErr: true,webResource: true,traceType: "apm",};
+                              var o = document.createElement('script');
+                              o.src = x, o.async = !0;
+                              var d = document.body.firstChild;
+                              document.body.insertBefore(o, d);
+                            }('https://res.hc-cdn.com/js-agent-cdn/1.0.49/jsagent.min.js', '__rum');</script><img src="https://cdn-static.gitcode.com/static/images/logo-favicon.png" style="position:absolute;left:-1000px;top:-1000px" alt="favicon"><div id="app"></div></body><script src="https://cdn-static.gitcode.com/js/font_4205092_t292vznm22.js" defer="defer"></script><script src="https://cdn-static.gitcode.com/js/lottie.min.js" defer="defer"></script><script>var _hmt = _hmt || [];
+    _hmt.push(['_setAutoPageview', false]);
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?62047c952451105d57bab2c4af9ce85b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();</script></html>
