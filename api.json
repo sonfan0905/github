@@ -13,26 +13,7 @@
     "wallpaper": "https://深色壁紙.xxooo.cf/",   
     "sites": [
 
-    {
-      "key": "黑木耳克隆",
-      "name": "黑木耳克隆",
-      "type": 4,
-      "api": "http://zhangqun1818.serv00.net/225.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0, 
-      "spider": "jar4"  //黑木耳克隆
-    },
-{
-      "key": "金鹰克隆",
-      "name": "金鹰克隆",
-      "type": 4,
-      "api": "http://zhangqun1818.serv00.net/jy.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0, 
-      "spider": "jar4"  //黑木耳克隆
-    },
+   
 
      {
       "key": "豆瓣",
@@ -112,6 +93,29 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
+ {
+      "key": "黑木耳克隆",
+      "name": "黑木耳克隆",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/225.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0, 
+      "spider": "jar4"  //黑木耳克隆
+    },
+{
+      "key": "金鹰克隆",
+      "name": "金鹰克隆",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/jy.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0, 
+      "spider": "jar4"  //黑木耳克隆
+    },
+
+
 {
       "key": "預告",
       "name": "新片｜預告",
