@@ -1,4 +1,7 @@
-📡Telegram👉直播,#genre#
+📡Telegram頻道👉直播,#genre#
+鳳凰資訊頻道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳳凰衛視頻道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰香港頻備,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
 三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
@@ -20,9 +23,6 @@ DW臺,http://125.227.210.55:42534/VideoInput/play.ts
 BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 大街)民視,rtmp://f13h.mine.nu/sat/tv051
 (大街)台視,rtmp://f13h.mine.nu/sat/tv071
 (大街)中視,rtmp://f13h.mine.nu/sat/tv091
