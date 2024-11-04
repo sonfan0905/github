@@ -25,6 +25,17 @@
       "ext":"http://itvbox.cc/云星日记/bili/哔哩xjj.json",
       "jar": "http://itvbox.cc/云星日记/jars/bili.jar"   //雲星家庭線路
     },
+    {
+      "key": "小姐姐",
+      "name": "💃哔哩小姐姐2",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩xjj.json",
+      "jar": "http://itvbox.cc/云星日记/jars/bili.jar"
+    },
 
 {
       "key": "车模",
