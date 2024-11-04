@@ -22,7 +22,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./云星日记/bili/哔哩xjj.json",
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩xjj.json",
       "spider": "jar5"  //雲星家庭線路
     },
 
