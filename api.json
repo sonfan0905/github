@@ -4,7 +4,7 @@
      "spider": "./spider.jar",     
      "jars":  //多JAR格式模版.txt
    {
-     "jar5":"http://itvbox.cc/云星日记/云星日记/jars/公众号云星日记1004.jart" , //雲星家庭線路
+     "jar5":"http://itvbox.cc/云星日记/jars/公众号云星日记1004.jart" , //雲星家庭線路
      "jar1":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt" , //西夏影視線路
      "jar2":"https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路  
      "jar3":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  //超牛線路
@@ -22,8 +22,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://itvbox.cc/云星日记/云星日记/bili/哔哩xjj.json",
-      "jar": "http://itvbox.cc/云星日记/云星日记/jars/bili.jar"  //雲星家庭線路
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩xjj.json",
+      "jar": "http://itvbox.cc/云星日记/jars/bili.jar"  //雲星家庭線路
     },
 
      {
