@@ -14,51 +14,8 @@
     "wallpaper": "https://深色壁紙.xxooo.cf/",   
     "sites": [
 
-   {
-      "key": "小姐姐",
-      "name": "💃哔哩小姐姐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext":"http://itvbox.cc/云星日记/bili/哔哩xjj.json",
-      "jar": "http://itvbox.cc/云星日记/jars/bili.jar"   //雲星家庭線路
-    },
-    {
-      "key": "小姐姐",
-      "name": "💃哔哩小姐姐2",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/云星日记/bili/哔哩xjj.json",
-      "jar": "http://itvbox.cc/云星日记/jars/bili.jar"
-    },
-
-{
-      "key": "车模",
-      "name": "💃哔哩车模",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc//云星日记/bili/哔哩车模.json",
-      "jar": "http://itvbox.cc//云星日记/jars/bili.jar"  //雲星家庭線路
-    },
- {
-      "key": "演唱会自定义",
-      "name": "🌈演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/云星日记/bili/哔哩演唱会.json",
-      "jar": "http://itvbox.cc/云星日记/jars/bili.jar" //雲星家庭線路
-    },
+   
+  
 
      {
       "key": "豆瓣",
@@ -160,6 +117,40 @@
       "spider": "jar4"  //黑木耳克隆
     },
 
+  {
+      "key": "小姐姐",
+      "name": "💃哔哩小姐姐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩xjj.json",
+      "jar": "http://itvbox.cc/云星日记/jars/bili.jar"
+    },
+
+{
+      "key": "车模",
+      "name": "💃哔哩车模",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc//云星日记/bili/哔哩车模.json",
+      "jar": "http://itvbox.cc//云星日记/jars/bili.jar"  //雲星家庭線路
+    },
+ {
+      "key": "演唱会自定义",
+      "name": "🌈演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩演唱会.json",
+      "jar": "http://itvbox.cc/云星日记/jars/bili.jar" //雲星家庭線路
+    },
 
 {
       "key": "預告",
