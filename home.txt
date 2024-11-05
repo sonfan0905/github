@@ -8,10 +8,24 @@
       "sourceName": "☁️精選本地倉庫",
       "sourceUrl": "clan://localhost/tvbox/index.txt"
     },
+     {
+      "sourceName": "💕恒星仓库💕",
+      "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/hxck1.txt"
+    },
     {
-      "sourceName": "☁️云星在線倉庫",
-      "sourceUrl": "http://itvbox.cc/可视仓库/在线仓"
+      "sourceName": "💕天微仓库💕",
+      "sourceUrl": "http://tvkj.top/DC.txt"
+    },
+    {
+      "sourceName": "💕心动仓库💕",
+      "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/xdck.txt"
+    },
+    {
+      "sourceName": "通知点进来看看",
+      "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/jjtz.txt"
     }
+
+
 
 
   ]
