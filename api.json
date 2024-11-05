@@ -4,7 +4,8 @@
      "spider": "./spider.jar",     
      "jars":  //多JAR格式模版.txt
    {
-     "jar5":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730501203549/fan.txt;md5;a889982d5efe39d65ff9f81559fa2f87" , //飯太硬多條線路
+      "jar6":"./yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40" , //恒星资料网線路
+      "jar5":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730501203549/fan.txt;md5;a889982d5efe39d65ff9f81559fa2f87" , //飯太硬多條線路
      "jar1":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt" , //西夏影視線路
      "jar2":"https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路  
      "jar3":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  //超牛線路
@@ -13,6 +14,47 @@
 
     "wallpaper": "https://深色壁紙.xxooo.cf/",   
     "sites": [
+ {
+      "key": "SNzy",
+      "name": "💕 索尼资源 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "jar6", //恒星资料网線路
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "纪录片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫",
+        "足球",
+        "预告片",
+        "影视解说"
+      ]
+    },
 
    {
       "key": "糯米",
