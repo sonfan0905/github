@@ -55,14 +55,14 @@
         "影视解说"
       ]
     },
-{
+   {
       "key": "xml_火狐",
       "name": "💕 豪华采集 ",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,,
+      "filterable": 1,
       "spider": "jar6", //恒星资料网線路
       "categories": [
         "动作片",
