@@ -8,8 +8,7 @@
 
  { "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "本地饭太硬" },
 
- //{"url": "P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f", "name": "彩虹e台"},
- //{"url": "P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080", "name": "彩虹电影台" },
+ 
 
 {
       "url": "clan://localhost/tvbox/dc2/lib/box原.json",
