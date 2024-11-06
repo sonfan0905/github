@@ -192,18 +192,7 @@
       "filterable": 0, 
       "spider": "jar4"  //黑木耳克隆
     },
- {
-      "key": "演唱会自定义",
-      "name": "🌈演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/云星日记/bili/哔哩演唱会.json",
-      "jar": "http://itvbox.cc/云星日记/jars/bili.jar" //雲星家庭線路
-    },
-
+ 
 {
       "key": "金鹰克隆",
       "name": "金鹰克隆",
@@ -213,6 +202,17 @@
       "quickSearch": 1,
       "filterable": 0, 
       "spider": "jar4"  //黑木耳克隆
+    },
+{
+      "key": "演唱会自定义",
+      "name": "🌈演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩演唱会.json",
+      "jar": "http://itvbox.cc/云星日记/jars/bili.jar" //雲星家庭線路
     },
 
   {
