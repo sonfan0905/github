@@ -47,6 +47,62 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },
+
+   {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "spider": "jar5"  //飯太硬多條線路
+
+    },
+  {"key":"嫖嫖嫖",
+"name":"🧿嫖嫖┃影视",
+"type":3,
+"jar": "https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路 
+"api":"csp_XBPQ",
+"ext":{"主页url":"https://www.gs4x7nq4.com/",
+"播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36","简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>","嗅探词":".mp4#.m3u8#.flv#.m3u8?#.mp4?","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}[不包含:伦理剧]","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.gs4x7nq4.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"xxx","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.gs4x7nq4.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+
+
+{
+"key":"薦片彈幕",
+"name":"💘薦片┃彈幕",
+"type":3,
+"jar": "https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路 
+"api":"csp_Jianpian",
+"playerType":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"danmu":true}
+},
+
+{"key":"文才彈幕",
+"name":"💘文才┃彈幕",
+"type":3,
+"api":"csp_Jpys",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"spider": "jar2",  //歐歌線路
+"ext":{"danmu":true}
+},
+
+
+{
+      "key": "韓小圈",
+      "name": "韓小圈｜APP",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  //超牛線路
+      "api": "csp_HanXiaoQuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
  {
       "key": "SNzy",
       "name": "💕 索尼资源 ",
@@ -126,66 +182,6 @@
       ]
     },
 
-   {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "jar5"  //飯太硬多條線路
-
-    },
-  
-
-     
-
-{"key":"嫖嫖嫖",
-"name":"🧿嫖嫖┃影视",
-"type":3,
-"jar": "https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路 
-"api":"csp_XBPQ",
-"ext":{"主页url":"https://www.gs4x7nq4.com/",
-"播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36","简介":"⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>","嗅探词":".mp4#.m3u8#.flv#.m3u8?#.mp4?","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}[不包含:伦理剧]","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.gs4x7nq4.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"xxx","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.gs4x7nq4.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
-
-
-{
-"key":"薦片彈幕",
-"name":"💘薦片┃彈幕",
-"type":3,
-"jar": "https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路 
-"api":"csp_Jianpian",
-"playerType":1,
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{"danmu":true}
-},
-
-{"key":"文才彈幕",
-"name":"💘文才┃彈幕",
-"type":3,
-"api":"csp_Jpys",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"spider": "jar2",  //歐歌線路
-"ext":{"danmu":true}
-},
-
-
-{
-      "key": "韓小圈",
-      "name": "韓小圈｜APP",
-      "type": 3,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  //超牛線路
-      "api": "csp_HanXiaoQuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
  {
       "key": "黑木耳克隆",
       "name": "黑木耳克隆",
@@ -196,6 +192,18 @@
       "filterable": 0, 
       "spider": "jar4"  //黑木耳克隆
     },
+ {
+      "key": "演唱会自定义",
+      "name": "🌈演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://itvbox.cc/云星日记/bili/哔哩演唱会.json",
+      "jar": "http://itvbox.cc/云星日记/jars/bili.jar" //雲星家庭線路
+    },
+
 {
       "key": "金鹰克隆",
       "name": "金鹰克隆",
@@ -229,17 +237,6 @@
       "filterable": 1,
       "ext": "http://itvbox.cc//云星日记/bili/哔哩车模.json",
       "jar": "http://itvbox.cc//云星日记/jars/bili.jar"  //雲星家庭線路
-    },
- {
-      "key": "演唱会自定义",
-      "name": "🌈演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/云星日记/bili/哔哩演唱会.json",
-      "jar": "http://itvbox.cc/云星日记/jars/bili.jar" //雲星家庭線路
     },
 
 {

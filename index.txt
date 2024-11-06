@@ -1,12 +1,4 @@
 { "urls": [
-{ "url": "https://raw.githubusercontent.com/sonfan0905/github/master/api.json", "name": "線上精選線路" },
-{
-      "url": "http://www.饭太硬.com/tv/",
-      "name": "線上饭太硬"
-},
-{ "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "本地饭太硬" },
-{
-      "url": "clan://localhost/tvbox/dc2/lib/box原.json",
-      "name": "本地公众号【宝盒没宝】"
-}
+{ "url": "https://raw.githubusercontent.com/sonfan0905/github/master/api.json", "name": "精選在線線路" },
+{ "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "精選本地線路(饭太硬)" }
 ]}
