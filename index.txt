@@ -1,4 +1,4 @@
 { "urls": [
-{ "url": "https://raw.githubusercontent.com/sonfan0905/github/master/api.json", "name": "精選在線線路" },
-{ "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "精選本地線路(饭太硬)" }
+{ "url": "https://raw.githubusercontent.com/sonfan0905/github/master/api.json", "name": "在線精選線路" },
+{ "url": "clan://localhost/tvbox/饭太硬/api.json", "name": "本地精選線路(饭太硬)" }
 ]}

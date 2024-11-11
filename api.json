@@ -48,18 +48,7 @@
       }
     },
 
-   {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "jar5"  //飯太硬多條線路
-
-    },
-  {"key":"嫖嫖嫖",
+    {"key":"嫖嫖嫖",
 "name":"🧿嫖嫖┃影视",
 "type":3,
 "jar": "https://xn--esc-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",  //歐歌線路 
