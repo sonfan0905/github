@@ -191,6 +191,17 @@
       "quickSearch": 1,
       "filterable": 0, 
       "spider": "jar4"  //黑木耳克隆
+    },
+    {
+      "key": "MV",
+      "name": "魔改线路影堂③",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/2883/Bili.json",
+      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
     }
     ]
 }
