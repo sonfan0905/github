@@ -11,18 +11,6 @@
      {
       "sourceName": "💕恒星仓库💕",
       "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/hxck1.txt"
-    },
-    {
-      "sourceName": "💕天微仓库💕",
-      "sourceUrl": "http://tvkj.top/DC.txt"
-    },
-    {
-      "sourceName": "💕心动仓库💕",
-      "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/xdck.txt"
-    },
-    {
-      "sourceName": "通知点进来看看",
-      "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/jjtz.txt"
     }
 
 
