@@ -1,12 +1,16 @@
 {
   "storeHouse": [
-    {
-      "sourceName": "☁️在線精選倉庫",
-      "sourceUrl": "https://raw.githubusercontent.com/sonfan0905/github/master/index.txt"
-    },
 {
-      "sourceName": "☁️本地精選倉庫",
+      "sourceName": "☁️本地倉庫",
       "sourceUrl": "clan://localhost/tvbox/index.txt"
+    },
+    {
+      "sourceName": "☁️在線倉庫(cdn)",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/sonfan0905/github@master/api.json"
+    },
+    {
+      "sourceName": "☁️在線精選倉庫(raw)",
+      "sourceUrl": "https://raw.githubusercontent.com/sonfan0905/github/master/index.txt"
     }
 
   ]
