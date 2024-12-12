@@ -6,7 +6,7 @@
     },
     {
       "sourceName": "☁️在線倉庫(cdn)",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/sonfan0905/github@master/api.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/sonfan0905/github@master/index.txt"
     },
     {
       "sourceName": "☁️在線精選倉庫(raw)",
