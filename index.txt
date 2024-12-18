@@ -1,9 +1,9 @@
 { "urls": [
 { "url": "clan://localhost/tvbox/api.json", "name": "本地" },
 { "url": "https://raw.githubusercontent.com/sonfan0905/github/master/api.json", "name": "在線" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/lilun.json", "name": "在線✨逍遙" },
 { "url": "https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json", "name": "在線(🔞綠色環保)" },
 { "url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/master/json/18sexN.json", "name": "在線(🔞博天堂)" },
-{ "url": "https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json", "name": "在線(🔞呱哥)" },
-{ "url": "https://ghp.ci/https://raw.githubusercontent.com/yun3695/yun/refs/heads/main/cs.json", "name": "在線(🔞熊大)" }
-
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/yun3695/yun/refs/heads/main/cs.json", "name": "在線(🔞熊大)" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json", "name": "在線(🔞呱哥)" }
 ]}
